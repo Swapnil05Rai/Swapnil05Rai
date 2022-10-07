@@ -9,4 +9,4 @@ Swapnil05Rai/Swapnil05Rai is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,blender)
