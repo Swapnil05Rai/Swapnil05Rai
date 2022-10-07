@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
  - SKILLS:
- - ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,blender,LINKEDIN)
+ - ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,blender,HTML)
  - STATS:
  - ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swapnil05Rai)
  - ![SWAPNIL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swapnil05Rai&theme=tokyonight&show_icons=true)
