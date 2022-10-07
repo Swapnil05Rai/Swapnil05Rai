@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
  - STATS:
  - ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)
  - TROPHIES:
- - ![trophy](https://github-profile-trophy.vercel.app/?username=kattni)
+ - ![trophy](https://github-profile-trophy.vercel.app/?username=kattni&theme=onedark)
