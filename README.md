@@ -8,14 +8,9 @@
 Swapnil05Rai/Swapnil05Rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- I WORK ON FOLLOWING:
-- <!---
- 
---->
-  ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,blender)
-  
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,blender)
  - STATS:
  - ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)
 
--TROPHIES:
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=kattni)
