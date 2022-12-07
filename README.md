@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
  - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil05Rai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
 
-
+[![@terminator05's Holopin board](https://holopin.me/terminator05)](https://holopin.io/@terminator05)
