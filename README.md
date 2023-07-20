@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on....
 - 📫 How to reach me . amanrai05032003@gmail.com....
   
-<img src="https://komarev.com/ghpvc/?username=Swapnil05Rai&style=flat-rectangle&color=red" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Swapnil05Rai&style=flat-square&color=red" alt=""/>
 
 <!---
 Swapnil05Rai/Swapnil05Rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
