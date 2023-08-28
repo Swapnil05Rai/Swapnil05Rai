@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
  - SKILLS:
- - ![My Skills](https://skillicons.dev/icons?i=py,git,github,blender,c,django,mongodb,mysql,figma,html,css,javascript,canva,postman)
+ - ![My Skills](https://skillicons.dev/icons?i=py,git,github,blender,c,django,mongodb,mysql,figma,html,css,javascript,postman)
  - STATS:
  - ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swapnil05Rai)
  - ![SWAPNIL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swapnil05Rai&theme=tokyonight&show_icons=true)
